@@ -10,11 +10,10 @@ Descripcion
 • 2005: Lanzamiento de PostgreSQL 8.0 (soporte nativo para Windows)
 • 2010: PostgreSQL 9.0 (replicación streaming, Hot Standby)
 • 2016: PostgreSQL 9.6 (mejoras en paralelización de consultas)
-• 2020: PostgreSQL 13 (optimización de índices, nuevas características de seguridad
+• 2020: PostgreSQL 13 (optimización de índices, nuevas características de seguridad)
 
 Caracteristicas
 ![img](./imagenes/Tiempo.jpg)
 
 Requisitos Previos
 
-)
