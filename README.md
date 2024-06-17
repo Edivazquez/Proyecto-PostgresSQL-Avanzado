@@ -13,7 +13,7 @@ Descripcion
 • 2020: PostgreSQL 13 (optimización de índices, nuevas características de seguridad
 
 Caracteristicas
-![alt text](tiempo.jgp)
+![img](./imagenes/Tiempo.jpg)
 
 Requisitos Previos
 
